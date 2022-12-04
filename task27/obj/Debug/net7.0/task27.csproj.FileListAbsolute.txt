@@ -1,0 +1,15 @@
+D:\C_sharp\Homework4\task27\bin\Debug\net7.0\task27.exe
+D:\C_sharp\Homework4\task27\bin\Debug\net7.0\task27.deps.json
+D:\C_sharp\Homework4\task27\bin\Debug\net7.0\task27.runtimeconfig.json
+D:\C_sharp\Homework4\task27\bin\Debug\net7.0\task27.dll
+D:\C_sharp\Homework4\task27\bin\Debug\net7.0\task27.pdb
+D:\C_sharp\Homework4\task27\obj\Debug\net7.0\task27.csproj.AssemblyReference.cache
+D:\C_sharp\Homework4\task27\obj\Debug\net7.0\task27.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp\Homework4\task27\obj\Debug\net7.0\task27.AssemblyInfoInputs.cache
+D:\C_sharp\Homework4\task27\obj\Debug\net7.0\task27.AssemblyInfo.cs
+D:\C_sharp\Homework4\task27\obj\Debug\net7.0\task27.csproj.CoreCompileInputs.cache
+D:\C_sharp\Homework4\task27\obj\Debug\net7.0\task27.dll
+D:\C_sharp\Homework4\task27\obj\Debug\net7.0\refint\task27.dll
+D:\C_sharp\Homework4\task27\obj\Debug\net7.0\task27.pdb
+D:\C_sharp\Homework4\task27\obj\Debug\net7.0\task27.genruntimeconfig.cache
+D:\C_sharp\Homework4\task27\obj\Debug\net7.0\ref\task27.dll

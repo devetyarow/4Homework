@@ -1,0 +1,15 @@
+D:\C_sharp\Homework4\task25\obj\Debug\net7.0\task25.csproj.AssemblyReference.cache
+D:\C_sharp\Homework4\task25\obj\Debug\net7.0\task25.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp\Homework4\task25\obj\Debug\net7.0\task25.AssemblyInfoInputs.cache
+D:\C_sharp\Homework4\task25\obj\Debug\net7.0\task25.AssemblyInfo.cs
+D:\C_sharp\Homework4\task25\obj\Debug\net7.0\task25.csproj.CoreCompileInputs.cache
+D:\C_sharp\Homework4\task25\bin\Debug\net7.0\task25.exe
+D:\C_sharp\Homework4\task25\bin\Debug\net7.0\task25.deps.json
+D:\C_sharp\Homework4\task25\bin\Debug\net7.0\task25.runtimeconfig.json
+D:\C_sharp\Homework4\task25\bin\Debug\net7.0\task25.dll
+D:\C_sharp\Homework4\task25\bin\Debug\net7.0\task25.pdb
+D:\C_sharp\Homework4\task25\obj\Debug\net7.0\task25.dll
+D:\C_sharp\Homework4\task25\obj\Debug\net7.0\refint\task25.dll
+D:\C_sharp\Homework4\task25\obj\Debug\net7.0\task25.pdb
+D:\C_sharp\Homework4\task25\obj\Debug\net7.0\task25.genruntimeconfig.cache
+D:\C_sharp\Homework4\task25\obj\Debug\net7.0\ref\task25.dll
